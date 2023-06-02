@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    width: 100%;
+    column-gap: 40px;
+    font-size: 20px;
+}
+.minicontainer {
+    display: flex;
+    width: 100%;
+    column-gap: 40px;
+    font-size: 20px;
+}
+.main {
+    display: flex;
+    width: 100%;
+    column-gap: 500px;
+    border-bottom: 2px;
+    padding-bottom: 20px;
+}
+.home a {
+    color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 25px;
+
+}
+.contactus a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.service a {
+    color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 25px;
+
+}
+.about a {
+    color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 25px;
+
+}
+.more a {
+    color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 25px;
+
+}
